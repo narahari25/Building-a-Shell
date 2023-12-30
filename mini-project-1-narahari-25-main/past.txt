@@ -1,0 +1,11 @@
+peek -a
+peek -l
+peek -la
+peek -a .
+proclore
+warp ..
+warp ~
+warp tt
+warp -
+sleep 2 ; warp ..
+sleep 5 & warp ~
